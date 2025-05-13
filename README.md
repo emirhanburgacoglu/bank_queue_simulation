@@ -6,7 +6,7 @@ This project simulates a bank queue where customers wait in line for service. It
 
 1. Clone the repo:
          ```bash
-         git clone https://github.com/yourusername/bank-queue-simulation.git
+         git clone https://github.com/emirhanburgacoglu/bank_queue_simulation.git
 2. Run the simulation:
    python main.py
 
